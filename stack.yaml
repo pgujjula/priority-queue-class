@@ -1,0 +1,7 @@
+resolver: lts-12.14
+
+ghc-options:
+    "$everything": -O2
+
+packages:
+- '.'
